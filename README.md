@@ -1,12 +1,13 @@
 #Finding Lane Lines on the Road 
-[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+
+
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
 Overview
 ---
 
-This project was started as an assignment as a part of Udacity's Self Driving Car Nano Degree. The project aim is to identify lane boundaries in a dash cam video stream. This repository contains a jupyter notebook containing such an algorithm, designed for use with example videos also in this repository. 
+This project was started as an assignment for Udacity's Self Driving Car Nano Degree. [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive) The project aim is to identify lane boundaries in a dash cam video stream. This repository contains a jupyter notebook containing such an algorithm, designed for use with example videos also in this repository. 
 
 ***project built in miniconda "carnd-term1" environment, built by Udacity
 
