@@ -34,17 +34,17 @@ Algorithm
 		
 6. Draw the lines identified by the Hough transform on the original image:
  
-``1. Sorts Hough-identified lines into two arrays by whether the line's slope is positive (right lane boundary) or negative (left).
+  1. Sorts Hough-identified lines into two arrays by whether the line's slope is positive (right lane boundary) or negative (left).
 
-``2. Performs a linear regression on the endpoints of the hough lines 
+  2. Performs a linear regression on the endpoints of the hough lines 
 	in each array using the np.polyfit function.
 
-``3. y-coordinates of the endpoints of the desired singular lines are
+  3. y-coordinates of the endpoints of the desired singular lines are
 	definated as the top and bottom of the image mask defined in the 
 	pipeline above. x-coordinates are solved for using the coefficients 
 	from the polyfit regression.
 
-``4. Using the calculated endpoints, 2 lines (right and left) are plotted on the original image. 
+  4. Using the calculated endpoints, 2 lines (right and left) are plotted on the original image. 
 
 
 
