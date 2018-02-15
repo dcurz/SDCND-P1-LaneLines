@@ -11,7 +11,9 @@ Skills
 Overview
 ---
 
-This project was completed as an assignment for Udacity's Self Driving Car Nano Degree [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive). The jupyter notebook walks step by step through the process of identifying lane lines in a video stream using Canny Edge Detection and the Hough Transform. 
+This project was completed as an assignment for Udacity's Self Driving Car Nano Degree [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive). The jupyter notebook walks step by step through the process of identifying lane lines in a video stream using Canny Edge Detection and the Hough Transform.
+
+This project began using the starter code provided [here](https://github.com/udacity/CarND-LaneLines-P1).
 
 
 Dependencies
